@@ -10,13 +10,18 @@ module.exports = (formulario) => {
         }
     });
     const mailOptions = {
-        from: `”${formulario.nombre}” <${formulario.email}>`,
+        from: `”${formulario.nombreApellido}” <${formulario.email}>`,
         to: 'epalau@gmail.com',
-        subject: 'nuevo mensaje de miel',
+        subject: 'nuevo pedido el colibri hummingBee Honey',
         html: `
  <strong>Nombre:</strong> ${formulario.nombreApellido} <br/>
+ <strong>Teléfono:</strong> ${formulario.telefono} <br/>
  <strong>E-mail:</strong> ${formulario.email} <br/>
- <strong>Mensaje:</strong> algun mensaje
+ <strong>Dirección Envio:</strong> ${formulario.direccion} <br/>
+ <strong>Cantidad Miel:</strong> ${formulario.miel} <br/>
+ <strong>Cantidad Jenjibre:</strong> ${formulario.mielJen} <br/>
+ 
+ 
  `
     };
     transporter.sendMail(mailOptions, function(err, info) {
