@@ -760,142 +760,156 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     HoneyComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: HoneyComponent,
       selectors: [["app-honey"]],
-      decls: 44,
+      decls: 48,
       vars: 0,
-      consts: [[1, "container", "mb-5"], [1, "lead"], [1, "container"], [1, "row"], [3, "ngSubmit"], ["form", "ngForm"], [1, "col-lg-6", "col-sm-12"], [1, "form-group"], ["type", "text", "placeholder", "Nombre(s) y Apellido(s)", "name", "nombreApellido", "ngModel", "", 1, "form-control"], ["type", "tel", "placeholder", "Tel\xE9fono", "name", "telefono", "ngModel", "", 1, "form-control"], ["type", "email", "placeholder", "Email", "name", "email", "ngModel", "", 1, "form-control"], ["type", "text", "placeholder", "Direcci\xF3n Env\xEDo", "name", "direccion", "ngModel", "", 1, "form-control"], ["type", "submit", 1, "btn", "btn-primary", "btn-block"], [1, "row", "d-inline-flex", "align-middle"], [1, "card", "shadow", "text-center", 2, "width", "100%"], ["src", "../assets/img/jar.png", "alt", "...", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["for", "inputCantMiel"], ["type", "number", "id", "inputCantMiel", "value", "0", "name", "miel", "ngModel", "", 1, "form-control", "text-center"], ["for", "inputCantMielJen"], ["type", "number", "id", "inputCantMielJen", "value", "0", "name", "mielJen", "ngModel", "", 1, "form-control", "text-center"]],
+      consts: [[1, "container", "mb-5"], [1, "row"], [1, "col", "text-center"], ["href", "#", "id", "logoMiel"], ["src", "../../../assets/img/logoMiel.png", "alt", ""], [1, "lead"], [1, "container"], [3, "ngSubmit"], ["form", "ngForm"], [1, "col-lg-6", "col-sm-12"], [1, "form-group"], ["type", "text", "placeholder", "Nombre(s) y Apellido(s)", "name", "nombreApellido", "ngModel", "", 1, "form-control"], ["type", "tel", "placeholder", "Tel\xE9fono", "name", "telefono", "ngModel", "", 1, "form-control"], ["type", "email", "placeholder", "Email", "name", "email", "ngModel", "", 1, "form-control"], ["type", "text", "placeholder", "Direcci\xF3n Env\xEDo", "name", "direccion", "ngModel", "", 1, "form-control"], ["type", "submit", 1, "btn", "btn-primary", "btn-block"], [1, "row", "d-inline-flex", "align-middle"], [1, "card", "shadow", "text-center", 2, "width", "100%"], ["src", "../assets/img/jar.png", "alt", "...", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["for", "inputCantMiel"], ["type", "number", "id", "inputCantMiel", "value", "0", "name", "miel", "ngModel", "", 1, "form-control", "text-center"], ["for", "inputCantMielJen"], ["type", "number", "id", "inputCantMielJen", "value", "0", "name", "mielJen", "ngModel", "", 1, "form-control", "text-center"]],
       template: function HoneyComponent_Template(rf, ctx) {
         if (rf & 1) {
           var _r7 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "p", 1);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, " En cuanto a lo de la literatura, te voy a enviar unos audios. Aqu\xED a tomar tiempo para darte una explicaci\xF3n y ya Marcelo lo traslada al escrito y la miel de abeja nuestra es de campos de las monta\xF1as vallecaucanas desde el sur de Cali hasta el norte del Valle. Tenemos distintas colmenas, entonces especificar un lugar es complejo, pero s\xED se puede hablar de la cordillera occidental. La producci\xF3n local del Valle del Cauca, la parte occidental y propiedades de la miel de abeja bueno, es energ\xE9ticamente protector de las mucosas del organismo, por ende, sirve para artritis. Artrosis es energ\xEDa para el cerebro. Sirve para recubrir los organismos por dentro. Cuando est\xE1n fallando nos est\xE1n debilitando y activa el sistema inmunol\xF3gico debido a las bacterias que contiene probi\xF3ticos. Jarabe de jengibre y eucalipto es un jarabe hecho a base de miel, jengibre y eucalipto, una t\xE9cnica de interacci\xF3n entre las plantas y la miel para que se desarrolle la concentraci\xF3n de aromas de sabores y se hace un proceso de filtrado b\xE1sico para que no haya particulas gruesas de la planta, sirve para aliviar vias respiratorias. Sirve para hacer bebidas energ\xE9ticas. Sirve para activar el sistema de defensa. Sirve para cocinar porque es deliciosa. Tanto en jugos como en postres El grado de pureza de todo es 100 por ciento. La denominaci\xF3n de la miel que usted va a comercializar se llama miel cruda. Se dice en miel de abeja cruda. Por qu\xE9 motivo es crudo? Pues porque no tiene intervenci\xF3n f\xEDsica y qu\xEDmica. Pero entonces, tanto la miel falsa como la miel cruda se solidifica. O sea, cu\xE1l es la diferencia? Ya est\xE1n el tipo de cristal que se da y la radiaci\xF3n que presentan el calor. Entonces, cuando la miel pura, cuando la piel se solidifica sin saber si es pura o no, hay que observar el cristal como se forma normalmente los cristales de la alteraci\xF3n se ven como turrones de az\xFAcar, aunque hay mieles que tambi\xE9n cristalizan as\xED. Por eso es un tema tan amplio. Es un tema que se aprende en un d\xEDa para otro, pero s\xED se va adquiriendo nociones. Entonces el la cristalizaci\xF3n de la miel, por el contrario, normalmente normalmente, salvo excepciones en algunos en algunos casos, pero normalmente es como ver una manteca, no es tanto ver los turrones al fondo, sino como una manteca, y para darse cuenta si es pura, uno se pone a ba\xF1o mar\xEDa. Ella autom\xE1ticamente a los diez minutos tiene que empezar a volver al estado l\xEDquido, al estado original, como cuando reci\xE9n se sac\xF3 el. La cristalizaci\xF3n es un proceso inherente en la miel, lleva a presentar com\xFAnmente que se empieza a solidificar. Por eso le recomiendo que la comercial trate de comercializarla en boca ancha para que las personas puedan sacarla de la botella en el concierto al fondo. Al final, cuando el poquitico cristaliza sin necesidad de ponerla a ba\xF1o mar\xEDa. Y si no es explicarle a las personas que esa es una conducta natural. El tema de vender miel de abejas que toca ense\xF1ar a la gente a conocer acerca del producto que est\xE1 adquiriendo, porque la gente est\xE1 m\xE1s familiarizada con el producto falsificado que con el producto original. Y hay una serie de mitos entre los dos que terminan perjudicando a la miel natural. La gente la pasa por miel falsa cuando que se solidifica, cuando es ese uno de los estados m\xE1s evidentes para descubrirse una miel. ");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "a", 3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 2);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "div", 3);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "h1");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Realiza tu pedido");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "img", 4);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "form", 4, 5);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p", 5);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngSubmit", function HoneyComponent_Template_form_ngSubmit_8_listener() {
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, " En cuanto a lo de la literatura, te voy a enviar unos audios. Aqu\xED a tomar tiempo para darte una explicaci\xF3n y ya Marcelo lo traslada al escrito y la miel de abeja nuestra es de campos de las monta\xF1as vallecaucanas desde el sur de Cali hasta el norte del Valle. Tenemos distintas colmenas, entonces especificar un lugar es complejo, pero s\xED se puede hablar de la cordillera occidental. La producci\xF3n local del Valle del Cauca, la parte occidental y propiedades de la miel de abeja bueno, es energ\xE9ticamente protector de las mucosas del organismo, por ende, sirve para artritis. Artrosis es energ\xEDa para el cerebro. Sirve para recubrir los organismos por dentro. Cuando est\xE1n fallando nos est\xE1n debilitando y activa el sistema inmunol\xF3gico debido a las bacterias que contiene probi\xF3ticos. Jarabe de jengibre y eucalipto es un jarabe hecho a base de miel, jengibre y eucalipto, una t\xE9cnica de interacci\xF3n entre las plantas y la miel para que se desarrolle la concentraci\xF3n de aromas de sabores y se hace un proceso de filtrado b\xE1sico para que no haya particulas gruesas de la planta, sirve para aliviar vias respiratorias. Sirve para hacer bebidas energ\xE9ticas. Sirve para activar el sistema de defensa. Sirve para cocinar porque es deliciosa. Tanto en jugos como en postres El grado de pureza de todo es 100 por ciento. La denominaci\xF3n de la miel que usted va a comercializar se llama miel cruda. Se dice en miel de abeja cruda. Por qu\xE9 motivo es crudo? Pues porque no tiene intervenci\xF3n f\xEDsica y qu\xEDmica. Pero entonces, tanto la miel falsa como la miel cruda se solidifica. O sea, cu\xE1l es la diferencia? Ya est\xE1n el tipo de cristal que se da y la radiaci\xF3n que presentan el calor. Entonces, cuando la miel pura, cuando la piel se solidifica sin saber si es pura o no, hay que observar el cristal como se forma normalmente los cristales de la alteraci\xF3n se ven como turrones de az\xFAcar, aunque hay mieles que tambi\xE9n cristalizan as\xED. Por eso es un tema tan amplio. Es un tema que se aprende en un d\xEDa para otro, pero s\xED se va adquiriendo nociones. Entonces el la cristalizaci\xF3n de la miel, por el contrario, normalmente normalmente, salvo excepciones en algunos en algunos casos, pero normalmente es como ver una manteca, no es tanto ver los turrones al fondo, sino como una manteca, y para darse cuenta si es pura, uno se pone a ba\xF1o mar\xEDa. Ella autom\xE1ticamente a los diez minutos tiene que empezar a volver al estado l\xEDquido, al estado original, como cuando reci\xE9n se sac\xF3 el. La cristalizaci\xF3n es un proceso inherente en la miel, lleva a presentar com\xFAnmente que se empieza a solidificar. Por eso le recomiendo que la comercial trate de comercializarla en boca ancha para que las personas puedan sacarla de la botella en el concierto al fondo. Al final, cuando el poquitico cristaliza sin necesidad de ponerla a ba\xF1o mar\xEDa. Y si no es explicarle a las personas que esa es una conducta natural. El tema de vender miel de abejas que toca ense\xF1ar a la gente a conocer acerca del producto que est\xE1 adquiriendo, porque la gente est\xE1 m\xE1s familiarizada con el producto falsificado que con el producto original. Y hay una serie de mitos entre los dos que terminan perjudicando a la miel natural. La gente la pasa por miel falsa cuando que se solidifica, cuando es ese uno de los estados m\xE1s evidentes para descubrirse una miel. ");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div", 1);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "h1");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Realiza tu pedido");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 1);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "form", 7, 8);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngSubmit", function HoneyComponent_Template_form_ngSubmit_12_listener() {
             _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r7);
 
-            var _r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](9);
+            var _r6 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵreference"](13);
 
             return ctx.contactForm(_r6.value);
           });
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 1);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 9);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "div", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](13, "input", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "div", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](15, "input", 9);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 11);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "input", 10);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "input", 11);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](19, "input", 12);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "button", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "Realizar Pedido");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "input", 13);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](23, "input", 14);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "button", 15);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Realizar Pedido");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 13);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 14);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](26, "img", 15);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 9);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 16);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "h5", 17);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 9);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](29, "Miel organica");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 17);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](30, "img", 18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 19);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "label", 18);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "h5", 20);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](32, "Cantidad");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](33, "input", 19);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "Miel organica");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "label", 21);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "Cantidad");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](37, "input", 22);
+
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "div", 14);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "div", 9);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](36, "img", 15);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 17);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 16);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](40, "img", 18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "h5", 17);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 19);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, "Miel Jenjibre");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "h5", 20);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](43, "Miel Jenjibre");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "div", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "label", 20);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "label", 23);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](42, "Cantidad");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](46, "Cantidad");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](43, "input", 21);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "input", 24);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -919,7 +933,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         }
       },
       directives: [_angular_forms__WEBPACK_IMPORTED_MODULE_3__["ɵangular_packages_forms_forms_y"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgControlStatusGroup"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgForm"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgModel"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NumberValueAccessor"]],
-      styles: [".container[_ngcontent-%COMP%] {\r\n    background-color: white;\r\n    color: black;\r\n}\r\n\r\nbody[_ngcontent-%COMP%] {\r\n    background-color: white !important;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9ob25leS9ob25leS5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLFlBQVk7QUFDaEI7O0FBRUE7SUFDSSxrQ0FBa0M7QUFDdEMiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2hvbmV5L2hvbmV5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgY29sb3I6IGJsYWNrO1xyXG59XHJcblxyXG5ib2R5IHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XHJcbn0iXX0= */"]
+      styles: [".container[_ngcontent-%COMP%] {\r\n    background-color: white;\r\n    color: black;\r\n}\r\n\r\nbody[_ngcontent-%COMP%] {\r\n    background-color: white !important;\r\n}\r\n\r\n#logoMiel[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\r\n    width: 50%;\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9ob25leS9ob25leS5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQ0ksdUJBQXVCO0lBQ3ZCLFlBQVk7QUFDaEI7O0FBRUE7SUFDSSxrQ0FBa0M7QUFDdEM7O0FBRUE7SUFDSSxVQUFVO0FBQ2QiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL2hvbmV5L2hvbmV5LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuY29udGFpbmVyIHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xyXG4gICAgY29sb3I6IGJsYWNrO1xyXG59XHJcblxyXG5ib2R5IHtcclxuICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlICFpbXBvcnRhbnQ7XHJcbn1cclxuXHJcbiNsb2dvTWllbCBpbWcge1xyXG4gICAgd2lkdGg6IDUwJTtcclxufSJdfQ== */"]
     });
     /*@__PURE__*/
 
