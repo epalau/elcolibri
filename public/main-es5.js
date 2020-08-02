@@ -1170,9 +1170,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         opcion: "opcion",
         entrar: "entrar"
       },
-      decls: 22,
+      decls: 21,
       vars: 0,
-      consts: [[1, "container", "mb-5"], [1, "row"], [1, "col-lg-6"], [1, "col", "text-center"], [1, "mb-5"], ["src", "../../assets/img/bee4.gif", "alt", ""], ["type", "button", 1, "btn", 3, "click"], ["src", "../../assets/img/hbird3.gif", "alt", ""], ["type", "button", "id", "conserva", 1, "btn", 3, "click"]],
+      consts: [[1, "container", "mb-5"], [1, "row"], [1, "col-lg-6"], [1, "col", "text-center"], [1, "mb-5"], ["src", "../../assets/img/bee4.gif", "alt", ""], ["type", "button", 1, "btn", 3, "click"], ["src", "../../assets/img/hbird3.gif", "alt", ""], ["type", "button", "id", "conserva", 1, "btn"]],
       template: function MainComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1239,15 +1239,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "button", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function MainComponent_Template_button_click_20_listener() {
-            return ctx.conserva();
-          });
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "entrar");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](20, "button", 8);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
