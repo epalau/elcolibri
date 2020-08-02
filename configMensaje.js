@@ -18,9 +18,10 @@ module.exports = (formulario) => {
  <strong>Teléfono:</strong> ${formulario.telefono} <br/>
  <strong>E-mail:</strong> ${formulario.email} <br/>
  <strong>Dirección Envio:</strong> ${formulario.direccion} <br/>
- <strong>Cantidad Miel:</strong> ${formulario.miel} <br/>
- <strong>Cantidad Jenjibre:</strong> ${formulario.mielJen} <br/>
- 
+ <strong>Cantidad Miel cruda 750cc:</strong> ${formulario.mielCruda750} <br/>
+ <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielCruda450} <br/>
+ <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielJeng750} <br/>
+ <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielJeng450} <br/>
  
  `
     };
