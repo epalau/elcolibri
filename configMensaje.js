@@ -22,6 +22,7 @@ module.exports = (formulario) => {
  <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielCruda450} <br/>
  <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielJeng750} <br/>
  <strong>Cantidad Miel cruda 450cc:</strong> ${formulario.mielJeng450} <br/>
+ <strong>Total Pedido:</strong> ${formulario.totalPedido} <br/>
  
  `
     };
